@@ -1,1 +1,1 @@
-Repository for creating LLMs as a part of SOC project
+Repository for creating ChatGPT as a part of SOC project
